@@ -1,0 +1,11 @@
+.root{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+body{
+  background-color: aliceblue;
+  margin: 0;
+  padding: 0;
+}
